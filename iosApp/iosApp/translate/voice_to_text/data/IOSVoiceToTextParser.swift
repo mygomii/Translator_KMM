@@ -2,7 +2,7 @@
 //  IOSVoiceToTextParser.swift
 //  iosApp
 //
-//  Created by mygomii Lackner on11/12/23
+//  Created by mygomii 11/12/23
 //  Copyright © 2023 orgName. All rights reserved.
 //
 
